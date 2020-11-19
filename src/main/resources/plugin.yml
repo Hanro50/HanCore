@@ -1,0 +1,7 @@
+name: HanLib_API
+version: 1.0-SNAPSHOT
+author: Hanro50
+main: org.han.bukkit.HanLibBukkit
+api-version: 1.16
+load: STARTUP
+
